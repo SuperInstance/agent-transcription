@@ -1,4 +1,5 @@
 [package]
+repository = "https://github.com/SuperInstance/agent-transcription"
 description = "agent-transcription"
 name = "agent-transcription"
 version = "0.1.0"
